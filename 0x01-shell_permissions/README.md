@@ -1,1 +1,1 @@
-this is the readme for all the task
+each of the script is writting codes as stippulated
